@@ -1,0 +1,23 @@
+{
+  "train": {
+    "images": 1050,
+    "positive": 350,
+    "negative": 700
+  },
+  "val": {
+    "images": 300,
+    "positive": 100,
+    "negative": 200
+  },
+  "test": {
+    "images": 150,
+    "positive": 50,
+    "negative": 100
+  },
+  "total": {
+    "images": 1500,
+    "positive": 500,
+    "negative": 1000
+  },
+  "warnings": []
+}

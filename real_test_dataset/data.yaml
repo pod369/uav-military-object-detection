@@ -1,0 +1,6 @@
+path: C:/Users/popod/Desktop/TankProject/real_test_dataset
+train: images/test
+val: images/test
+test: images/test
+names:
+  0: T-55

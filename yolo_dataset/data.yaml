@@ -1,0 +1,6 @@
+path: C:/Users/popod/Desktop/TankProject/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: T-55
